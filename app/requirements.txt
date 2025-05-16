@@ -1,0 +1,12 @@
+pydantic
+fastapi
+fastapi[all]
+uvicorn
+sqlalchemy
+apscheduler
+python-jose
+python-jose[cryptography]
+passlib
+python-multipart
+bcrypt
+python-dotenv
